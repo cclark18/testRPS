@@ -42,3 +42,4 @@ public class TestRPSUtils extends AndroidTestCase {
 		Assert.assertEquals("error", RPSUtils.getWinner("aasd", "dsfa"));
 	}
 }
+// test //
